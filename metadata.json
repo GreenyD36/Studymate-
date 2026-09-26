@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "AI-Powered Global Learning & Language Education Platform for academic tutoring, question scanning, smart notes, quizzes, study planning, and learning 7 languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
